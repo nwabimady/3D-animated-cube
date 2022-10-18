@@ -1,1 +1,1 @@
-# New project
+# Basic 3D animated cubes
